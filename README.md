@@ -25,5 +25,3 @@ You have the freedom to choose language (like Python or Ruby) and framework (lik
 Suites, Scenes, Components, Utils. Config and driver initializer in separate files.
 
 node_modules folder is not included in repository npm install needed.
-
-Repository was commited and pushed as seperate branch qa-test-kamil-staniak.
